@@ -27,9 +27,11 @@ Interesse em arquitetura backend escalável, mensageria e integração entre sis
 ## Atualmente aprofundando conhecimentos em:
 
 - FastAPI
+- FlaskAPI
 - Arquitetura Distribuída
 - Event-Driven Architecture
 - Observabilidade
+- AWS
 
 
 
